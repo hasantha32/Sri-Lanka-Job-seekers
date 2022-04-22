@@ -29,27 +29,27 @@
 	<form id="formCitizen" name="formCitizen"  >
 	
 	
-	  <h2>Citizen Nic:</h2> 
+	  <h4>Citizen Nic:</h4> 
 		<input id="citizenNic" name="citizenNic" type="text" class="form-control form-control-sm"><br>
-		<h2>Citizen name:</h2>
+		<h4>Citizen name:</h4>
 		<input id="citizenName" name="citizenName" type="text" class="form-control form-control-sm"><br>
-		 <h2>Citizen age:</h2>
+		 <h4>Citizen age:</h4>
 		<input id="citizenAge" name="citizenAge" type="text" class="form-control form-control-sm"><br> 
 		
-		<h2> Citizen address:</h2>
+		<h4> Citizen address:</h4>
 		<input id="citizenAddress" name="citizenAddress" type="text" class="form-control form-control-sm"><br>
 		
 
-		<h2>Citizen location:</h2>
+		<h4>Citizen location:</h4>
 		<input id="citizenLocation" name="citizenLocation" type="text" class="form-control form-control-sm"><br>
-		<h2>Citizen profession:</h2>
+		<h4>Citizen profession:</h4>
 		<input id="citizenProfession" name="citizenProfession" type="text" class="form-control form-control-sm"><br>
-		<h2> Citizen email:</h2>
+		<h4> Citizen email:</h4>
 		<input id="citizenEmail" name="citizenEmail" type="text" class="form-control form-control-sm"><br> 
 		
-		 <h2>Citizen affliation:</h2>
+		 <h4>Citizen affliation:</h4>
 		<input id="citizenAffliation" name="citizenAffliation" type="text" class="form-control form-control-sm"><br>
-		 <h2>Citizen password:</h2>
+		 <h4>Citizen password:</h4>
 		<input id="citizenPassword" name="citizenPassword" type="text" class="form-control form-control-sm"><br>
 		
 		<input id="btnSave" name="btnSave" type="button" value="Register" class="btn btn-primary">

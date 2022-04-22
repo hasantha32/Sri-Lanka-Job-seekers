@@ -177,7 +177,7 @@ public String readCitizens()
 					
 					// create a prepared statement
 
-					String query = "UPDATE citizen SET citizenNic=?,citizenName=?,citizenAge=?,citizenAddress=?,   citizenLocation=?,citizenProfession=?,citizenemail=?,citizenaffliation=?,,citizenpassword=?WHERE citizenID=?";
+					String query = "UPDATE citizen SET citizenNic=?,citizenName=?,citizenAge=?,citizenAddress=?,citizenLocation=?,citizenProfession=?,citizenemail=?,citizenaffliation=?,citizenpassword=?WHERE citizenID=?";
 					
 					PreparedStatement preparedStmt = con.prepareStatement(query);
 					// binding values
