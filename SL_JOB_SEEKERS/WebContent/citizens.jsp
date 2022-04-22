@@ -28,6 +28,7 @@
 		
 	<form id="formCitizen" name="formCitizen"  >
 	
+	
 	  <h2>Citizen Nic:</h2> 
 		<input id="citizenNic" name="citizenNic" type="text" class="form-control form-control-sm"><br>
 		<h2>Citizen name:</h2>
